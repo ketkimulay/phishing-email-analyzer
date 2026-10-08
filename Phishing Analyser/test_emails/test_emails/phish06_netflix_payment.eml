@@ -1,0 +1,8 @@
+From: "Netflix Billing" <billing@netflix-billing.xyz>
+To: you@example.com
+Subject: Payment failed: update now to keep watching
+Date: Tue, 06 Oct 2026 09:15:00 +0000
+Authentication-Results: mx.example.com; spf=softfail; dkim=none; dmarc=fail
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>Your membership will be suspended. Update your payment details within 24 hours.</p><a href="http://netflix-billing.xyz/update">www.netflix.com/payment</a></body></html>

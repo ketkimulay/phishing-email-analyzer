@@ -1,0 +1,8 @@
+From: "HR Department" <hr@example.com>
+To: you@example.com
+Subject: Updated salary and bonus schedule: confirm your details
+Date: Tue, 06 Oct 2026 09:15:00 +0000
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>Please confirm your details to view your new salary and bonus schedule. Act now, the window closes today.</p><a href="http://hr-portal-login.xyz/view">hr.example.com/salary</a></body></html>

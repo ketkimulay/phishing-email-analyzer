@@ -1,0 +1,9 @@
+From: "PayPal Support" <security@paypa1-support.com>
+Reply-To: help@random-mail.ru
+To: you@example.com
+Subject: URGENT: Your account is suspended
+Date: Tue, 06 Oct 2026 09:15:00 +0000
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>Dear Customer, your account will be suspended within 24 hours. Verify immediately to avoid permanent closure.</p><a href="http://192.168.4.20/login">www.paypal.com/verify</a></body></html>

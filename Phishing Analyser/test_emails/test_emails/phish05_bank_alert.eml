@@ -1,0 +1,9 @@
+From: "SecureBank Alerts" <alerts@securebank-alerts.tk>
+Reply-To: support@securebank-help.ru
+To: you@example.com
+Subject: Unusual sign-in detected: confirm your identity
+Date: Tue, 06 Oct 2026 09:15:00 +0000
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>We noticed an unusual sign-in. Please confirm your identity immediately or your card will be blocked.</p><a href="http://securebank-alerts.tk/verify">www.securebank.com/login</a></body></html>

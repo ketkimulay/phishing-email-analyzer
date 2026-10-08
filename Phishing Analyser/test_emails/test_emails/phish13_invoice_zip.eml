@@ -1,0 +1,12 @@
+From: "Accounts Dept" <accounts@invoice-center.xyz>
+To: you@example.com
+Subject: Invoice 88213 overdue: see attached invoice.zip
+Date: Tue, 06 Oct 2026 09:15:00 +0000
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+Content-Type: text/plain; charset="utf-8"
+
+Hello,
+
+Your invoice is overdue. Open the attached invoice.zip immediately to see payment details. Late fees apply within 24 hours.
+
+Accounts

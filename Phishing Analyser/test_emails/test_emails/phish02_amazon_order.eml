@@ -1,0 +1,8 @@
+From: "Amazon Orders" <orders@amaz0n-orders.com>
+To: you@example.com
+Subject: Your order #4471-2290 could not be processed
+Date: Tue, 06 Oct 2026 09:15:00 +0000
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>We were unable to charge your card. Confirm your payment details or your order will be cancelled.</p><a href="http://amazon-billing-update.xyz/pay">www.amazon.com/account</a></body></html>

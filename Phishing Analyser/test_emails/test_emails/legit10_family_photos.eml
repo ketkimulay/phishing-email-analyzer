@@ -1,0 +1,12 @@
+From: "Grandma" <grandma@example.com>
+To: you@example.com
+Subject: Photos from the weekend
+Date: Tue, 06 Oct 2026 09:15:00 +0000
+Authentication-Results: mx.example.com; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+
+Hello dear,
+
+The garden looks lovely this year! I'll send the photos when I figure out the printer. Love you.
+
+Grandma

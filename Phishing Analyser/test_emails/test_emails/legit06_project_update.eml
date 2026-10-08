@@ -1,0 +1,12 @@
+From: "Aisha Khan" <aisha.khan@example.com>
+To: you@example.com
+Subject: Project update: week 3
+Date: Tue, 06 Oct 2026 09:15:00 +0000
+Authentication-Results: mx.example.com; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+
+Hi team,
+
+We finished the login page and started on reports. Next week we test with real users.
+
+Aisha

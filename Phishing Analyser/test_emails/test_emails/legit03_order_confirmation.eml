@@ -1,0 +1,8 @@
+From: "Example Shop" <orders@shop.example.com>
+To: you@example.com
+Subject: Your order #20931 has shipped
+Date: Tue, 06 Oct 2026 09:15:00 +0000
+Authentication-Results: mx.example.com; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>Thanks for your order! Your package ships today and should arrive in 3 to 5 days.</p><a href="https://shop.example.com/orders/20931">https://shop.example.com/orders/20931</a></body></html>

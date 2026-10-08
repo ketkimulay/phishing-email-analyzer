@@ -1,0 +1,8 @@
+From: "Google Drive" <storage@g00gle-drive.click>
+To: you@example.com
+Subject: Storage full: act now or lose your files
+Date: Tue, 06 Oct 2026 09:15:00 +0000
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>Your storage is full. Act now to avoid losing photos and documents. Verify your account immediately.</p><a href="http://g00gle-drive.click/upgrade">drive.google.com/upgrade</a></body></html>

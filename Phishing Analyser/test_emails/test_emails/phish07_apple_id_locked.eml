@@ -1,0 +1,8 @@
+From: "Apple ID Support" <support@apple-id-locked.top>
+To: you@example.com
+Subject: Your Apple ID has been locked
+Date: Tue, 06 Oct 2026 09:15:00 +0000
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>Your account is suspended due to suspicious activity. Verify immediately to unlock.</p><a href="http://apple-id-locked.top/unlock">Unlock account</a></body></html>
